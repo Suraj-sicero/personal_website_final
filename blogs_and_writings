@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Deftarck</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Deftarck</h1>
+      <nav>
+        <ul>
+          <li><a href="https://www.deftarck.com">Home</a></li>
+          <li><a href="https://www.deftarck.com/blog">Blogs and writing</a></li>
+          <li><a href="https://www.deftarck.com/blog/pods_vids">Podcasts and videos</a></li>
+          <li><a href="https://www.deftarck.com/all_else">Everything else</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <article>
+        <h2>Blogs and Writings</h2>
+        <p>Welcome to this space where I share some of my work - projects, writings, podcasts, research etc -
+          and any other eclectic material that I have found in my seeking.
+          </p>
+        <p>Here o</p>
+        <img src="img_girl.jpg" alt="personal dashboard - curato">
+      </article>
+      <article>
+        <h2><a href = "https://www.deftarck.com/blog">Musings On An Evolving World: The Blog</a></h2>
+        <p>This isn advancement</p>
+        <img src="img_girl.jpg" alt="a space age city of 2035">
+      </article>
+      <article>
+        <h2><a href = "https://www.deftarck.com/blog">The TechNoScape:Series of blogs on The Age of AI</a></h2>
+        <p>Here is some content for another post.</p>
+        <img src="img_girl.jpg" alt="humanity on a precipice">
+      </article>
+      <article>
+        <h2><a href = "https://www.deftarck.com/blog/life">Contemplations: On Life</a></h2>
+        <p>My ponderings on this weird and beautiful things called life.</p>
+        <img src="img_girl.jpg" alt="human overlooking a valley of river, trees, roads and houses">
+      </article>
+        <ul>
+      <li>My blog: <a href = "https://www.deftarck.com/blog">The TechNoScape</a></li>
+      <li>My Pod: <a href = "https://www.deftarck.com/pod">Musings Of A </a></li>
+      <li>My videos: <a href="https://www.youtube.com/channel/UCWHa5vIXO5MliHeeCKgjHuQ" </a>Seeking_the_sun</li>
+    </ul>
+  <br>
+  <br>
+  <br>
+    </main>
+    <footer>
+      <p>Copyright © Deftarck 2023.
+    </footer>
+  </body>
+</html>
